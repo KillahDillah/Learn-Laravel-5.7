@@ -68,9 +68,9 @@
             <div class="content">
                 @yield('content')
                 <div>
-                    <a href="/about"><i class="far fa-info-circle"></i></a>
-                    <a href="/"><i class="fas fa-home-heart"></i></a>
-                    <a href="/contact"><i class="fas fa-phone"></i></a>
+                    <a href="/about"><i class="fa fa-info-circle"></i></a>
+                    <a href="/"><i class="fas fa-home"></i></a>
+                    <a href="/contact"><i class="fa fa-phone"></i></a>
                 </div>
             </div>
         </div>
